@@ -1,6 +1,8 @@
 UHC
 ===
 
+[![Join the chat at https://gitter.im/Eluinhost/UHC](https://badges.gitter.im/Eluinhost/UHC.svg)](https://gitter.im/Eluinhost/UHC?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is a plugin to help run games of UltraHardcore.
 
 This plugin is developed for Spigot 1.8+ and Java 7+.
